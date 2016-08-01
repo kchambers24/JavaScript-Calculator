@@ -1,0 +1,33 @@
+body {
+  background-image: url(http://i67.tinypic.com/2colkd5.png);
+}
+h1 {
+  color:white;
+  font-family: sans-serif; font-weight: 600;
+}
+.mainCalc {
+  position: relative;
+  left:100px;
+  border: 1px solid black;
+  width: 187px;
+  height: 130px;
+  border-radius: 5px;
+  background-color: #ff6600;
+}
+.clearButton {
+  width: 42px;
+  background-color: red;
+}
+#result {
+  width: 172px;
+  position: relative;
+  left: 5px; top: 2px;
+  text-align: right;
+}
+.calcButton {
+  background-color: white;
+  width: 42px;
+}
+.actionButton {
+  background-color: lightgrey;
+  width: 42px;
